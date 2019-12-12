@@ -1,0 +1,11 @@
+{
+    "env": {
+        "PORT": "43011",
+        "DATABASE": "national_university_demo_db",
+        "USER_NAME": "root",
+        "PASSWORD": "root@123",
+        "HOST": "localhost",
+        "DIALECT": "mysql",
+        "JWT_KEY": "University Database Demo"
+    }
+}
